@@ -1,0 +1,11 @@
+
+Model Performance Report
+------------------------
+- Accuracy: 0.89
+- Precision: 0.87
+- Recall: 0.90
+- F1-Score: 0.88
+- ROC-AUC: 0.91
+- Matthews Correlation Coefficient (MCC): 0.85
+
+This report outlines the performance metrics of the trained model on the test dataset. These values are hypothetical and should be replaced with actual metrics obtained from your model evaluation.
